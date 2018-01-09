@@ -1,0 +1,5 @@
+Long time0 =System.currentTimeMillis();
+System.out.println("时间0："+time0);
+Long time1 =System.currentTimeMillis();
+System.out.println("时间1："+time1);
+System.out.println("1-0："+(time1-time0));
